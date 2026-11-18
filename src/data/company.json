@@ -1,0 +1,92 @@
+{
+  "name": "Shivom Builders & Developers",
+  "shortName": "Shivom Builder",
+  "tagline": "Build Your Dream Home With Us.",
+  "subtagline": "Begin your journey with Shivom Builders & Developers – Best Construction Company in Indore.",
+  "aboutShort": "At Shivom Builders & Developers, we build quality homes and commercial spaces with a focus on trust, strong construction, and customer satisfaction.",
+  "contact": {
+    "phone": "+918818879126",
+    "phoneDisplay": "+91 88188 79126",
+    "altPhone": "+917000353014",
+    "altPhoneDisplay": "+91 70003 53014",
+    "email": "shivombuilder888@gmail.com",
+    "address": "77, behind BCM Height, opposite Chinmay Sagar Gurukul, Suman Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "pincode": "452010",
+    "mapsUrl": "https://maps.google.com/?q=77+behind+BCM+Height+Suman+Nagar+Indore",
+    "whatsappUrl": "https://wa.me/918818879126?text=Hello%20Shivom%20Builders,%20I%20would%20like%20to%20discuss%20a%20construction%20project.",
+    "workingHours": {
+      "weekdays": "Mon – Fri: 10:00 AM – 9:00 PM",
+      "weekends": "Sat – Sun: 10:00 AM – 1:00 PM"
+    }
+  },
+  "socials": {
+    "instagram": "https://www.instagram.com/shivom.builders",
+    "facebook": "https://www.facebook.com/profile.php?id=61557429430351",
+    "whatsapp": "https://wa.me/918818879126"
+  },
+  "stats": [
+    {
+      "value": "10+",
+      "number": 10,
+      "suffix": "+",
+      "label": "Years in Indore",
+      "description": "Continuous civil engineering and architectural excellence."
+    },
+    {
+      "value": "100+",
+      "number": 100,
+      "suffix": "+",
+      "label": "Completed Projects",
+      "description": "Luxury villas, duplexes, and commercial landmarks delivered."
+    },
+    {
+      "value": "100%",
+      "number": 100,
+      "suffix": "%",
+      "label": "On-Time Handover",
+      "description": "Transparent milestones and milestone-based project management."
+    },
+    {
+      "value": "4.9",
+      "number": 4.9,
+      "suffix": "★",
+      "label": "Client Rating",
+      "description": "Consistently praised across verified Google Reviews."
+    }
+  ],
+  "values": [
+    {
+      "number": "01",
+      "title": "Architectural Precision",
+      "description": "Every floor plan, structural column, and elevation is calibrated for natural cross-ventilation, daylighting, and spatial harmony."
+    },
+    {
+      "number": "02",
+      "title": "Uncompromising Material Grade",
+      "description": "We build exclusively with certified Tier-1 materials—Tata Tiscon Fe-550D TMT, UltraTech concrete, and Jaquar architectural hardware."
+    },
+    {
+      "number": "03",
+      "title": "Complete Financial Transparency",
+      "description": "Detailed BOQ (Bill of Quantities) with locked pricing. Zero surprise costs or mid-construction price escalations."
+    },
+    {
+      "number": "04",
+      "title": "Turnkey Peace of Mind",
+      "description": "From soil testing, municipal sanctions, and structural engineering to luxury interior finishes and final occupancy handover."
+    }
+  ],
+  "partners": [
+    { "name": "UltraTech Cement", "category": "Structural Concrete" },
+    { "name": "Tata Tiscon", "category": "Fe-550D TMT Steel" },
+    { "name": "Asian Paints Royale", "category": "Luxury Wall Finishes", "logo": "/images/partners/asian-paints.png" },
+    { "name": "Jaquar", "category": "Architectural CP & Sanitary" },
+    { "name": "Polycab", "category": "FR-LSH Copper Wiring", "logo": "/images/partners/polycab.png" },
+    { "name": "Hindware", "category": "Vitreous Sanitaryware", "logo": "/images/partners/hindware.png" },
+    { "name": "Saint-Gobain Gyproc", "category": "False Ceilings & Acoustics" },
+    { "name": "RR Kabel", "category": "Fire-Safe Wire Systems", "logo": "/images/partners/rr-kabel.png" }
+  ]
+}

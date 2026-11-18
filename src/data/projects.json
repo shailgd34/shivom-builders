@@ -1,0 +1,226 @@
+[
+  {
+    "id": "grand-aranya-luxury-villa",
+    "slug": "grand-aranya-luxury-villa",
+    "title": "The Grand Aranya Villa",
+    "tagline": "A sprawling 4,200 sq.ft contemporary duplex with warm stone cantilever facades and natural cross-lighting.",
+    "category": "Residential Architecture",
+    "categoryLabel": "Luxury Villa",
+    "location": "Bypass Corridor, Indore",
+    "builtUpArea": "4,200 sq.ft",
+    "plotSize": "50 × 80 ft (4,000 sq.ft plot)",
+    "year": "2024",
+    "timeline": "14 Months (Groundbreaking to Handover)",
+    "status": "Delivered",
+    "featured": true,
+    "heroImage": "/images/projects/project-01.jpg",
+    "gallery": [
+      "/images/projects/project-01.jpg",
+      "/images/projects/project-02.jpg",
+      "/images/projects/project-10.jpg",
+      "/images/projects/project-07.jpg",
+      "/images/hero/luxury-villa.jpg"
+    ],
+    "excerpt": "A masterfully crafted two-storey luxury duplex featuring floor-to-ceiling glass expanses, textured stone louvers, and bespoke teak interior joinery.",
+    "overview": "Situated along the green corridor of Indore's Bypass, The Grand Aranya Villa was commissioned by a leading medical family seeking an enduring generational sanctuary. The architectural brief demanded maximum natural light, complete acoustic privacy from the road, and an expansive ground-floor court that merges the living salon with landscaped gardens.",
+    "architectureStory": "Our design and civil team engineered an asymmetric cantilevered facade using Fe-550D structural steel framing. The upper terrace floats gracefully above the lower veranda, clad in natural beige travertine stone and weather-shielded charred timber battens. Large western elevations feature motorized thermal double-glazed apertures that welcome golden evening light while preventing solar heat gain during peak Central Indian summers.",
+    "specifications": [
+      { "label": "Structure", "value": "Earthquake-resistant RCC frame with Tata Tiscon Fe-550D TMT" },
+      { "label": "Concrete Grade", "value": "UltraTech M25 ready-mix concrete with automated cube testing" },
+      { "label": "Flooring", "value": "Italian Statuario marble in public zones; engineered hardwood in master suites" },
+      { "label": "Plumbing & Bath", "value": "Jaquar Artize concealed thermostatic divertors with Grohe sanitaryware" },
+      { "label": "Electrical", "value": "Polycab FR-LSH low-smoke copper cabling with Schneider modular switches" },
+      { "label": "Elevation", "value": "Natural fluted travertine stone, aluminum pergolas & double-glazed low-E glass" }
+    ],
+    "highlights": [
+      "Triple-height skylit atrium illuminating all central corridors",
+      "Concealed VRV air-conditioning ducts integrated into Gyproc false ceilings",
+      "Automated rainwater harvesting reservoir supporting complete garden irrigation",
+      "Double-coat external sand-faced plaster with Asian Paints Apex Ultima exterior seal"
+    ],
+    "relatedSlugs": ["suman-nagar-contemporary-residence", "vasant-vihar-minimalist-duplex"]
+  },
+  {
+    "id": "suman-nagar-contemporary-residence",
+    "slug": "suman-nagar-contemporary-residence",
+    "title": "Suman Nagar Contemporary Residence",
+    "tagline": "An urban modern residence engineered for compact city plots, featuring private lightwells and vertical green courts.",
+    "category": "Custom Home Construction",
+    "categoryLabel": "Modern Residence",
+    "location": "Suman Nagar (Near BCM Heights), Indore",
+    "builtUpArea": "2,850 sq.ft",
+    "plotSize": "30 × 50 ft (1,500 sq.ft plot)",
+    "year": "2024",
+    "timeline": "10 Months",
+    "status": "Delivered",
+    "featured": true,
+    "heroImage": "/images/projects/project-05.jpg",
+    "gallery": [
+      "/images/projects/project-05.jpg",
+      "/images/projects/project-08.jpg",
+      "/images/projects/project-11.jpg",
+      "/images/projects/project-13.jpg"
+    ],
+    "excerpt": "Smart spatial planning turns an urban 1,500 sq.ft footprint into an airy, four-bedroom family home with private rooftop recreation.",
+    "overview": "Urban construction in established colonies like Suman Nagar requires meticulous site logistics, silent execution, and innovative spatial engineering. The homeowner required 4 spacious bedrooms, a home office, and two covered car parking bays within an urban 1,500 sq.ft plot without compromising on greenery or ventilation.",
+    "architectureStory": "We solved the spatial constraint through an open-plan central spine centered on a vertical lightwell. By stepping the upper floor back from the street front, we created a private landscaped terrace balcony that shields bedrooms from street noise while providing a sweeping morning view toward the Indore skyline.",
+    "specifications": [
+      { "label": "Structure", "value": "Column-isolated RCC frame with high-yield TMT bars" },
+      { "label": "Masonry", "value": "Class-A red clay kiln bricks with reinforced lintels" },
+      { "label": "Kitchen", "value": "Turnkey modular acrylic kitchen with Hafele soft-close hardware" },
+      { "label": "Sanitaryware", "value": "Hindware Italian Collection wall-hung commodes & vanity basins" },
+      { "label": "Windows", "value": "Heavy-section Jindal powder-coated aluminum sliding windows with mesh" }
+    ],
+    "highlights": [
+      "Zero dead corridor space—all circulation doubles as functional living nooks",
+      "Concealed rooftop drainage manifolds eliminating external rainwater downpipes",
+      "Full turnkey interior execution including customized master bedroom wardrobes"
+    ],
+    "relatedSlugs": ["grand-aranya-luxury-villa", "the-shivalik-luxury-bungalow"]
+  },
+  {
+    "id": "the-onyx-commercial-arcade",
+    "slug": "the-onyx-commercial-arcade",
+    "title": "The Onyx Commercial Arcade",
+    "tagline": "A high-visibility corporate commercial landmark with clear-span retail floors and a structural curtain wall facade.",
+    "category": "Commercial Construction",
+    "categoryLabel": "Commercial Complex",
+    "location": "Vijay Nagar Commercial Sector, Indore",
+    "builtUpArea": "12,500 sq.ft",
+    "plotSize": "60 × 80 ft (4,800 sq.ft plot)",
+    "year": "2023",
+    "timeline": "16 Months",
+    "status": "Delivered",
+    "featured": true,
+    "heroImage": "/images/projects/project-06.jpg",
+    "gallery": [
+      "/images/projects/project-06.jpg",
+      "/images/projects/project-04.jpg",
+      "/images/projects/project-14.jpg",
+      "/images/projects/project-03.jpg"
+    ],
+    "excerpt": "Engineered for high footfall commercial tenants, offering column-free floor plates, high-speed elevator wells, and energy-efficient double glazing.",
+    "overview": "Commissioned by an institutional investor in the bustling Vijay Nagar commercial district, The Onyx was planned as a multi-tenant retail and executive clinic complex. The project demanded rapid construction turnaround, maximum rentable floor efficiency, and a facade that captivates vehicular traffic day and night.",
+    "architectureStory": "Shivom Builders executed deep foundation pile casting and post-tensioned floor slabs that eradicated intermediate columns across the retail floors. The exterior facade employs a high-performance structural spider-glazing system with Saint-Gobain sun-ban blue glass, coupled with dark charcoal aluminum composite panels.",
+    "specifications": [
+      { "label": "Structure", "value": "Heavy-duty commercial grade M30 concrete frame" },
+      { "label": "Glazing", "value": "Saint-Gobain Antelio low-E double-glazed structural curtain wall" },
+      { "label": "Fire Safety", "value": "Fully integrated wet-riser hydrant system with smoke sensors on all levels" },
+      { "label": "Elevator", "value": "10-passenger automatic gearless elevator with ARD backup" },
+      { "label": "Flooring", "value": "Heavy commercial grade 800×1600mm vitrified porcelain slabs" }
+    ],
+    "highlights": [
+      "Unrestricted 42-foot column-free spans for retail showroom flexibility",
+      "Basement parking with epoxy flooring and continuous mechanical ventilation",
+      "100% compliant commercial IMC building permission and fire NOC certification"
+    ],
+    "relatedSlugs": ["mayank-blue-commercial-leisure", "grand-aranya-luxury-villa"]
+  },
+  {
+    "id": "mayank-blue-commercial-leisure",
+    "slug": "mayank-blue-commercial-leisure",
+    "title": "Mayank Blue Commercial & Leisure Complex",
+    "tagline": "Expansive mixed-use recreational and hospitality facility designed for community engagement and heavy seasonal traffic.",
+    "category": "Commercial & Recreational",
+    "categoryLabel": "Hospitality & Leisure",
+    "location": "Bicholi Mardana, Indore",
+    "builtUpArea": "18,000 sq.ft",
+    "plotSize": "2.5 Acres Development",
+    "year": "2023",
+    "timeline": "18 Months",
+    "status": "Delivered",
+    "featured": false,
+    "heroImage": "/images/projects/project-04.jpg",
+    "gallery": [
+      "/images/projects/project-04.jpg",
+      "/images/projects/project-16.jpg",
+      "/images/projects/project-03.jpg"
+    ],
+    "excerpt": "A regional leisure destination featuring engineered hydraulic foundations, commercial pool civil works, and wide-span pavilions.",
+    "overview": "Developing leisure and water-focused properties requires specialized civil engineering. The project required commercial water retaining structures, massive paved plazas, food courts, and changing pavilion complexes.",
+    "architectureStory": "Shivom Builders deployed specialized chemical-treated M35 waterproof concrete for all subterranean holding tanks and pool shells. The surrounding hospitality structures were planned with airy colonial-modern verandas that shield guests from direct sun while encouraging breeze circulation.",
+    "specifications": [
+      { "label": "Civil Grade", "value": "M35 waterproof concrete with Sika water-stop membrane" },
+      { "label": "Paving", "value": "Non-slip flamed granite and interlocking heavy-load pavers" },
+      { "label": "Electrical", "value": "Dedicated 250 kVA transformer substation with underground cabling" }
+    ],
+    "highlights": [
+      "Zero-leakage certification across all hydraulic and pool installations",
+      "Expansive outdoor shaded colonnades accommodating up to 1,500 visitors",
+      "Comprehensive water filtration and greywater reuse plant"
+    ],
+    "relatedSlugs": ["the-onyx-commercial-arcade", "the-shivalik-luxury-bungalow"]
+  },
+  {
+    "id": "vasant-vihar-minimalist-duplex",
+    "slug": "vasant-vihar-minimalist-duplex",
+    "title": "Vasant Vihar Minimalist Duplex",
+    "tagline": "A serene 3,100 sq.ft family home characterized by clean horizontal lines, warm sandstone screens, and double-height living.",
+    "category": "Residential Architecture",
+    "categoryLabel": "Bespoke Residence",
+    "location": "Vasant Vihar, Indore",
+    "builtUpArea": "3,100 sq.ft",
+    "plotSize": "35 × 60 ft (2,100 sq.ft plot)",
+    "year": "2024",
+    "timeline": "11 Months",
+    "status": "Delivered",
+    "featured": false,
+    "heroImage": "/images/projects/project-07.jpg",
+    "gallery": [
+      "/images/projects/project-07.jpg",
+      "/images/projects/project-09.jpg",
+      "/images/projects/project-15.jpg",
+      "/images/hero/villa-exterior.jpg"
+    ],
+    "excerpt": "A contemporary duplex in one of Indore's quietest residential neighborhoods, prioritizing natural wood, sandstone, and garden courtyards.",
+    "overview": "The client desired a peaceful retreat away from urban bustle—a home defined by subtle sophistication rather than flashy ornamentation. They requested open-plan ground floor living, an airy puja pavilion, and private bedroom suites on the first level.",
+    "architectureStory": "The home features an exposed concrete textured feature wall balanced against warm sandstone jali screens. The double-height living room acts as the thermal lung of the home, expelling warm air through high-level clerestory louvers while drawing cool garden air inward.",
+    "specifications": [
+      { "label": "Masonry", "value": "AAC lightweight blocks with high thermal insulation" },
+      { "label": "Windows", "value": "Thermal-break UPVC casement windows with German Roto hardware" },
+      { "label": "Paint", "value": "Asian Paints Royale Aspira washable luxury interior finish" }
+    ],
+    "highlights": [
+      "Custom CNC-cut sandstone jaali providing privacy while filtering breezes",
+      "Floating solid wood staircase with frameless glass safety balustrade",
+      "Solar rooftop 5kW net-metering installation providing 80% annual power offset"
+    ],
+    "relatedSlugs": ["grand-aranya-luxury-villa", "the-shivalik-luxury-bungalow"]
+  },
+  {
+    "id": "the-shivalik-luxury-bungalow",
+    "slug": "the-shivalik-luxury-bungalow",
+    "title": "The Shivalik Luxury Bungalow",
+    "tagline": "An expansive 5,000 sq.ft private estate with wraparound landscaped verandas and artisan stone masonry.",
+    "category": "Bespoke Bungalow",
+    "categoryLabel": "Luxury Estate",
+    "location": "Super Corridor, Indore",
+    "builtUpArea": "5,000 sq.ft",
+    "plotSize": "60 × 90 ft (5,400 sq.ft plot)",
+    "year": "2024",
+    "timeline": "15 Months",
+    "status": "Delivered",
+    "featured": false,
+    "heroImage": "/images/projects/project-17.jpg",
+    "gallery": [
+      "/images/projects/project-17.jpg",
+      "/images/projects/project-18.jpg",
+      "/images/projects/project-12.jpg",
+      "/images/hero/architectural-interior.jpg"
+    ],
+    "excerpt": "Crafted for an industrialist family on a corner estate plot, combining classical proportion with modern glass and steel pavilion living.",
+    "overview": "Set along the prestigious Super Corridor development corridor, this private residence was envisioned as a permanent heritage home. The sprawling plot provided the canvas for a dual-wing layout separating guest entertainment suites from private family living quarters.",
+    "architectureStory": "Shivom Builders executed the entire structure using custom-formed architectural concrete and hand-chiselled local MP sandstone. The private rear courtyard houses a reflection pool and pergolas designed for family gatherings.",
+    "specifications": [
+      { "label": "Structure", "value": "Cast-in-situ reinforced concrete with 40-year foundation guarantee" },
+      { "label": "Doors & Windows", "value": "Solid Burma Teak 8-foot entrance door with Italian pivot hinges" },
+      { "label": "Home Automation", "value": "Integrated Lutron lighting, motorized curtains & video security" }
+    ],
+    "highlights": [
+      "Four-car sheltered portico with custom vehicular pavers",
+      "Independent staff quarters and secondary utility kitchen",
+      "Custom landscape lighting design creating majestic twilight silhouettes"
+    ],
+    "relatedSlugs": ["grand-aranya-luxury-villa", "suman-nagar-contemporary-residence"]
+  }
+]

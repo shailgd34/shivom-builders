@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "author": "Dr. Ankit Sharma",
+    "role": "Homeowner",
+    "project": "Suman Nagar Contemporary Residence",
+    "location": "Suman Nagar, Indore",
+    "rating": 5,
+    "quote": "Building a home while running a demanding surgical practice seemed impossible until we met the Shivom Builders team. Their transparency on material grades, weekly WhatsApp photo updates, and adherence to our agreed BOQ was exemplary. They finished two weeks ahead of schedule.",
+    "avatar": "/images/projects/project-05.jpg",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "author": "Ramesh Patel",
+    "role": "Property Owner",
+    "project": "The Grand Aranya Villa",
+    "location": "Bypass Road, Indore",
+    "rating": 5,
+    "quote": "Most builders in Indore cut corners on foundation steel or concrete grades. Shivom Builders did the exact opposite—they invited me to witness the cube strength tests for our RCC slabs. Their architectural team gave us a 3D elevation that looks 100% identical to our final completed bungalow.",
+    "avatar": "/images/projects/project-01.jpg",
+    "verified": true
+  },
+  {
+    "id": "3",
+    "author": "Vivek Agrawal",
+    "role": "Managing Director",
+    "project": "The Onyx Commercial Arcade",
+    "location": "Vijay Nagar, Indore",
+    "rating": 5,
+    "quote": "For a commercial development in Vijay Nagar, speed to market is everything. Shivom Builders managed the excavation, pile foundations, structural glazing, and fire safety clearances with total professionalism. We leased out 100% of our retail spaces before the final plaster dried.",
+    "avatar": "/images/projects/project-06.jpg",
+    "verified": true
+  },
+  {
+    "id": "4",
+    "author": "Smt. Sunita Verma",
+    "role": "Homeowner",
+    "project": "Vasant Vihar Minimalist Duplex",
+    "location": "Vasant Vihar, Indore",
+    "rating": 5,
+    "quote": "Their attention to Vastu and natural ventilation transformed our plot. The double-height living room stays naturally cool even in May. If you are building a custom home in Indore and care about true structural craftsmanship, there is simply no better team than Shivom.",
+    "avatar": "/images/projects/project-07.jpg",
+    "verified": true
+  }
+]

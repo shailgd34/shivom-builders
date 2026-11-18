@@ -1,0 +1,27 @@
+{
+  "links": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Process", "href": "/process" },
+    { "label": "Testimonials", "href": "/testimonials" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footerLinks": {
+    "pages": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "News", "href": "/news" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "services": [
+      { "label": "General Contracting", "href": "/services" },
+      { "label": "Turnkey Luxury Villas", "href": "/services" },
+      { "label": "Pre-construction & Estimating", "href": "/services" },
+      { "label": "Commercial Landmarks", "href": "/services" }
+    ]
+  }
+}

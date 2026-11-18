@@ -1,0 +1,78 @@
+[
+  {
+    "id": "residential",
+    "slug": "residential-construction",
+    "number": "01",
+    "title": "Residential Construction",
+    "tagline": "Custom Luxury Villas & Modern Homes",
+    "description": "Bespoke residential building from groundbreaking to handover. We engineer architecturally stunning independent duplexes, luxury villas, and multi-family homes throughout Indore with lifetime structural durability.",
+    "longDescription": "Building a custom home is one of life's most meaningful milestones. At Shivom Builders, we combine cutting-edge structural engineering with artisan craftsmanship. From deep foundation pile casting and earthquake-resistant RCC frames to thermal insulation and sound-dampening acoustic layouts, every residence is tailored to how your family lives.",
+    "image": "/images/projects/project-02.jpg",
+    "features": [
+      "Custom floor plan execution tailored to plot dimensions",
+      "Earthquake-resistant Fe-550D RCC frame construction",
+      "Vastu-aligned spatial orientation and natural daylighting",
+      "Waterproofing with 10-year structural warranty",
+      "Premium electrical conduits and plumbing manifolds",
+      "Milestone-based progress reporting with photo updates"
+    ],
+    "deliverables": ["Full Civil & Structural Work", "Brickwork & Double-Coat Plaster", "Flooring & Tile Laying", "Internal & External Waterproofing", "Pre-Occupancy Deep Cleaning"]
+  },
+  {
+    "id": "commercial",
+    "slug": "commercial-construction",
+    "number": "02",
+    "title": "Commercial Construction",
+    "tagline": "Corporate Landmark Spaces & Retail Hubs",
+    "description": "High-capacity commercial complexes, corporate offices, and mixed-use retail spaces built for commercial longevity, heavy foot traffic, and maximum lease utility.",
+    "longDescription": "Commercial real estate demands uncompromising speed, structural safety, and high architectural curb appeal. We build corporate office complexes, commercial arcades, and healthcare clinics that provide flexible open-span layouts, heavy electrical load management, and compliant safety ingress.",
+    "image": "/images/projects/project-06.jpg",
+    "features": [
+      "Large-span post-tensioned beam & column layouts",
+      "Commercial fire safety, hydrant, and egress engineering",
+      "High-durability stone and vitrified commercial flooring",
+      "Integrated HVAC ducting and electrical conduit network",
+      "Exterior curtain wall & structural glazing facade",
+      "Rapid turnaround schedules to accelerate tenant occupancy"
+    ],
+    "deliverables": ["Heavy-Duty Civil Structure", "Elevator Shaft & Stairwell Engineering", "Facade & Glazing Installation", "Commercial Power Distribution", "Occupancy Compliance Support"]
+  },
+  {
+    "id": "architecture",
+    "slug": "architectural-design",
+    "number": "03",
+    "title": "Architectural Design & 3D Elevations",
+    "tagline": "Innovative Form Meets Functional Grace",
+    "description": "Comprehensive architectural drafting, photorealistic 3D exterior elevations, structural load calculations, and municipal sanction documentation.",
+    "longDescription": "Great buildings begin with visionary architecture. Our in-house architectural team crafts contemporary front elevations, volumetric cantilevers, and climate-responsive facades. We deliver photorealistic daytime and twilight 3D renders so you experience your home before a single brick is laid.",
+    "image": "/images/projects/project-01.jpg",
+    "features": [
+      "Photorealistic 3D exterior visualization (day & night lighting)",
+      "Detailed 2D working floor plans & cross-sections",
+      "Structural beam, slab, and footing load drawings",
+      "Sun-path and wind analysis for natural passive cooling",
+      "Indore Municipal Corporation (IMC) building sanction assistance",
+      "Precise Bill of Quantities (BOQ) material schedules"
+    ],
+    "deliverables": ["Architectural Blueprint Set", "Structural Engineering Drawings", "3D Elevation Walkthrough", "Plumbing & Electrical Schematic", "Material Finish Specification Book"]
+  },
+  {
+    "id": "interiors",
+    "slug": "interior-design-turnkey",
+    "number": "04",
+    "title": "Interior & Turnkey Fitouts",
+    "tagline": "Crafted Interiors for Refined Living",
+    "description": "Seamless turnkey interior design, bespoke veneer woodwork, false ceilings, architectural ambient lighting, and modular kitchen installations.",
+    "longDescription": "A home's interior should feel like a sanctuary. We bridge the gap between exterior architecture and intimate living spaces. Our interior craftsmen install Italian marble, warm teak woodwork, magnetic track lighting, and soft acoustic Gyproc false ceilings.",
+    "image": "/images/projects/project-10.jpg",
+    "features": [
+      "Saint-Gobain Gyproc false ceilings with concealed cove lighting",
+      "Custom wardrobe and kitchen cabinetry in marine-grade ply",
+      "Italian marble, granite, and large-format porcelain tiling",
+      "Concealed copper plumbing with Jaquar luxury fittings",
+      "Smart home automation & mood-lighting integration",
+      "Zero-VOC Asian Paints Royale luxury emulsion finishes"
+    ],
+    "deliverables": ["3D Interior Layouts", "Modular Kitchen Fabrication", "Custom Wardrobes & TV Units", "Bathroom Vanity Sets", "Full Lighting Choreography"]
+  }
+]

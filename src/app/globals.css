@@ -1,0 +1,213 @@
+/* Local Self-Hosted STRUKT Fonts (Switzer, Inter, IBM Plex Mono) */
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/switzer-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/switzer-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/switzer-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/switzer-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/switzer-900.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/ibm-plex-mono-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('/fonts/ibm-plex-mono-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root, body {
+  --token-9cd0a20c-2f2b-437a-8571-1e9f2aef772b: #ff2600;
+  --token-04a971c7-ecf6-48e7-aed0-303ef75a222e: #fff;
+  --token-26d8473b-579f-4d34-a6be-cf615cdd9009: #f2f2f2;
+  --token-205bfcfe-8109-409b-b66c-843da7c65e18: #131313;
+  --token-285626bf-b3c3-486d-80b6-e533888e4cb3: #262626cc;
+  --token-0de8d8f6-98ec-4f75-97a5-8c85e3855415: #000;
+  --token-01fa0a1c-2d6b-49a7-99cb-4258f1490fa6: #4a4a4a;
+  --token-5baaf519-3c19-4750-8873-34cdf3adbc5d: #6e6e6e;
+  --token-bd73d4d0-d9ab-4078-bb3f-780ff0f707ae: #fff;
+  --token-10d3fb21-ac7b-43fb-936a-52df9c187d3d: #ffffff9e;
+  --token-18a49829-bc6a-4169-a537-b0815e731700: #e4e4e4;
+  --token-a23970db-a6ca-49ba-b1d9-1d4492de89a7: #ffffff24;
+  --token-7e2aa4e0-85c6-49cb-a7f4-210a0fb2eaf2: #f8f8f31f;
+  --token-3d3a9faf-f2d0-45b0-902e-ee2559969e8c: #ffffffbf;
+  --token-ca28dc71-d7ab-401a-8470-6b5964e583d5: #fff6;
+  --token-7a55afbf-4c48-4ddc-bff5-bde64549b604: #127a37;
+  --token-53c47052-6dd4-403d-8ad5-56a299e95c48: #ffffff1f;
+}
+
+body {
+  font-family: 'Switzer', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #131313;
+  overflow-x: hidden;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body, input, textarea, select, button {
+  font-family: 'Switzer', sans-serif;
+}
+
+.font-display {
+  font-family: 'Switzer', sans-serif;
+}
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+::selection {
+  background-color: #ff2600;
+  color: #ffffff;
+}
+
+/* STRUKT Form Input Line Focus */
+.framer-form-input-wrapper {
+  background-image: linear-gradient(#ff2600, #ff2600);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 0% 1px;
+  transition: background-size 0.55s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.framer-form-input-wrapper:focus-within {
+  background-size: 100% 1px;
+}
+
+/* Active Nav Tag */
+[data-strukt-current] {
+  background-color: rgba(248, 248, 243, 0.12) !important;
+}
+
+/* STRUKT Service Card Hover */
+.service-card {
+  transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.4s ease;
+}
+.service-card:hover {
+  transform: translateY(-6px);
+}
+.service-card:hover .service-card-arrow {
+  background-color: #ff2600 !important;
+  color: #ffffff !important;
+}
+.service-card:hover .service-card-img {
+  transform: scale(1.04);
+}
+
+/* STRUKT Lift */
+.strukt-lift,
+[data-framer-name$="[lift]"] {
+  transition: transform 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.strukt-lift:hover,
+[data-framer-name$="[lift]"]:hover {
+  transform: translateY(-6px);
+}
+
+/* Technical Ruler Background Pattern */
+.bg-ruler-ticks {
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.3) 0px,
+    rgba(255, 255, 255, 0.3) 1px,
+    transparent 1px,
+    transparent 16px
+  );
+  height: 8px;
+}
+
+/* Infinite Marquee Animation for Logos */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #e4e4e4;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ff2600;
+}
