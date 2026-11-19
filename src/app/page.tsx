@@ -272,6 +272,9 @@ export default function HomePage() {
                 <span className="text-white/55 block sm:whitespace-nowrap">We build your home,</span>
                 <span className="text-white block sm:whitespace-nowrap">dreams come true.</span>
               </h1>
+              <h2 className="sr-only">
+                Best Builder &amp; Top Construction Work in Indore &mdash; Shivom Builders &amp; Developers, premier luxury villa and duplex developers near Indore, MP.
+              </h2>
             </div>
           </div>
 
@@ -287,7 +290,7 @@ export default function HomePage() {
                 className="max-w-[580px] flex flex-col gap-4 sm:gap-5"
               >
                 <p className="font-sans text-[14px] sm:text-[15px] lg:text-[16px] text-white/85 font-normal leading-[22px] sm:leading-[24px]">
-                  Shivom Builders &amp; Developers &mdash; Indore&rsquo;s trusted builders. We design your plans, get permissions, and construct your home with genuine Tata Steel &amp; UltraTech cement. 100% on-time handover.
+                  Shivom Builders &amp; Developers &mdash; recognized as the best builder and top developers in Indore. We design 3D elevations, manage municipal permissions, and execute the best construction work in Indore with Tata Steel &amp; UltraTech cement. 100% on-time handover.
                 </p>
 
                 <div className="flex flex-wrap items-center gap-3">
